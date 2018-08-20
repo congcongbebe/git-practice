@@ -1,2 +1,3 @@
 <?php
-echo 222 and 444;
+echo 222 || 666;
+echo 787;
